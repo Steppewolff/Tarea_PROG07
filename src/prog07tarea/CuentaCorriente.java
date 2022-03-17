@@ -19,7 +19,7 @@ public class CuentaCorriente extends CuentaBancaria {
     }
 
     //Getter de comisionMantenimiento
-    public double getComisionMantenimiento(){
+    public float getComisionMantenimiento(){
         return comisionMantenimiento;
     }
     //Setter de comisionMantenimiento
